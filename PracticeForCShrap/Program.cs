@@ -9,7 +9,7 @@ namespace PracticeForCShrap
             string choice = string.Empty;
             while (!choice.Equals("q"))
             {
-                Console.WriteLine("Please enter the string");
+                Console.WriteLine("Please enter the date");
                 int num = 10; 
             }
 
