@@ -9,7 +9,7 @@ namespace PracticeForCShrap
             string choice = string.Empty;
             while (!choice.Equals("q"))
             {
-                Console.WriteLine("Please enter the bool");
+                Console.WriteLine("Please save changes");
                 int num = 10; 
             }
 
